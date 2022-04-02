@@ -1,5 +1,4 @@
-*.exe
-*.spec
+chromedriver.exe
 sugang_page.py
 
 build/
